@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="Kolekcija.xsl"?>
+<Kolekcija>
+   <Igra>
+      <Naslov>Mario Kart 8 - Deluxe</Naslov>
+      <ShortNaslov>Mario Kart.jpg</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Kart racing</Zanr>
+      <GodinaIzdanja>2017</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Super Mario Party Superstars</Naslov>
+      <ShortNaslov>Mario Party.jpg</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Party</Zanr>
+      <GodinaIzdanja>2021</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Super Mario Maker 2</Naslov>
+      <ShortNaslov>Super-Mario-Maker-2.jpg</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Platformer</Zanr>
+      <GodinaIzdanja>2019</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Super Mario Odyssey</Naslov>
+      <ShortNaslov>Mario Odyssey.jpg</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Platformer</Zanr>
+      <GodinaIzdanja>2017</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>The Legend of Zelda: Breath of the Wild</Naslov>
+      <ShortNaslov>Zelda.jpg</ShortNaslov>
+      <Cijena>499,00 kn</Cijena>
+      <Zanr>Avantura</Zanr>
+      <GodinaIzdanja>2017</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Donkey Kong Country Tropical Freeze</Naslov>
+      <ShortNaslov>DK Tropical Freeze.jpg</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Platformer</Zanr>
+      <GodinaIzdanja>2018</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Animal Crossing - New Horizons</Naslov>
+      <ShortNaslov>Animal Crossing.webp</ShortNaslov>
+      <Cijena>449,00 kn</Cijena>
+      <Zanr>Simulacija</Zanr>
+      <GodinaIzdanja>2020</GodinaIzdanja>
+  </Igra>
+  <Igra>
+      <Naslov>Super Smash Bros Ultimate</Naslov>
+      <ShortNaslov>Super Smash Bros.png</ShortNaslov>
+      <Cijena>499,00 kn</Cijena>
+      <Zanr>Borilačka</Zanr>
+      <GodinaIzdanja>2018</GodinaIzdanja>
+  </Igra>
+</Kolekcija>

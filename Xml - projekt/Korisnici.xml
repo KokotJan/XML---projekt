@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Korisnici>
+    <Korisnik>
+        <username>Korisnik1</username>
+        <password>12345678</password>
+        <ime>Ivo</ime>
+        <prezime>Ivić</prezime>
+    </Korisnik>
+    <Korisnik>
+        <username>Korisnik2</username>
+        <password>abcde</password>
+        <ime>Kapetan</ime>
+        <prezime>Kuka</prezime>
+    </Korisnik>
+    <Korisnik>
+        <username>Korisnik3</username>
+        <password>abcde12345</password>
+        <ime>Spužva</ime>
+        <prezime>Bob</prezime>
+    </Korisnik>
+</Korisnici>

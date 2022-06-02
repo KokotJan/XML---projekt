@@ -1,0 +1,90 @@
+body{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.Slika1{
+    width: 50%;
+    margin-left: 25%;
+}
+.Slika2{
+    width: 50%;
+    margin-left: 25%;
+}
+nav{
+    width: 100%;
+    margin: 0 auto;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 30px;
+    background-image: -webkit-linear-gradient(top, #e70009, #b8000c);
+    padding: 15px;
+    border-radius: 10px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline;
+    width: 20%;
+}
+a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+hr{
+    background-color: #e70009;
+    width: 102.5%;
+}
+footer{
+    background-image: -webkit-linear-gradient(top, #e70009, #b8000c);
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    font-family: 'Ropa Sans', sans-serif;
+    border-radius: 10px;
+}
+.linkovi{
+    font-weight: bold;
+    color: black;
+    font-size: 20px
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: #e70009;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+h4{
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+.Ponuda{
+    width: 20%;
+}
+.kosarica{
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+.kosarica:hover{
+    color: black;
+    text-decoration: underline;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+}
+.igre{
+    text-align: center;
+}
+.kontakt{
+    text-align: center;
+}
+.tekst1, .tekst2{
+    font-size: 18px;
+}
